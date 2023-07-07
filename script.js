@@ -1,7 +1,5 @@
 function decimalToBinary(num) {
-  //Write you code here
-	return  num.toString(2)
-  
+  // Write your code here
 }
 
 window.decimalToBinary = decimalToBinary;
